@@ -1,4 +1,5 @@
-file:///C:/Users/Admin/Downloads/AB-Testing4-1200x675-c.webp
+![ab-testing-2](https://github.com/user-attachments/assets/53408a4d-a9c2-4f0e-a0df-e37db0b9c9b3)
+
 
 # 🛍️ A/B Testing for Marketing Campaigns
 

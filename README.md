@@ -89,11 +89,13 @@ The business is aiming to optimize its marketing spend by increasing conversion 
 
 ### Conversion Rate Comparison
 
-![Conversion Rate Comparison](https://github.com/user-attachments/assets/abc/conversion-rate-comparison.png)
+![image](https://github.com/user-attachments/assets/95620c02-63bf-40fc-b247-25bdb106a8cd)
+
 
 ### Click-Through Rate Distribution
 
-![Click-Through Rate Distribution](https://github.com/user-attachments/assets/abc/ctr-distribution.png)
+![image](https://github.com/user-attachments/assets/f7062bb7-8db2-435b-bc37-e630cd788733)
+
 
 ---
 
